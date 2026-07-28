@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-private-multisig",
+  "description": "Private Multisig product architecture, integration guides, and future application components for Privacy Pump.",
+  "maturity": "Architecture and integration roadmap",
+  "network": "Devnet and local development",
+  "topics": ["privacy-pump", "solana", "privacy", "private-multisig", "defi"],
+  "visibility": "public-after-verification"
+}
